@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time   : 2021/3/7
 # @Author : lorineluo 
-import redis
 import time
 import datetime
 
